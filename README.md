@@ -30,6 +30,6 @@ The application will be running at http://127.0.0.1:5000/
 ### How to play
 
 1. Access the starting page by opening your web browser and navigating to [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
-2. Guess a number between 0 and 9.
+2. Guess a number between 0 and 9 after '/' ex: http://127.0.0.1:5000/5
 3. Receive feedback on your guess.
 4. Keep guessing until you find the correct number.
